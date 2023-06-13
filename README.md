@@ -1,3 +1,5 @@
+## Code-Based Digital Project: The Pill 
+
 ### Description
 Your own personal journey in navigating the somewhat convoluted pharm industry and mental health. 
 
